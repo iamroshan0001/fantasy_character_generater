@@ -1,0 +1,6 @@
+{
+  "name": "Fantasy Character Generator",
+  "description": "An interactive web app that generates random fantasy characters with unique names and classes at the click of a button.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
